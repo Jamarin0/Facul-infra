@@ -20,7 +20,7 @@
 
 ## Descrição do Projeto
 Projeto inspirado no Giphy, para compartilhamento de arquivos, se trata de um projeto em fase beta, onde estamos com parceria da AWS utilizando seus serviços, totalmente seguros e escaláveis.
-<pO projeto tem como objetivo o compartilhamento de fotos, nosso serviço funciona sem o usuário gastar espaço no seu celular, com alta disponibilidade 24x7 e alta velocidade, no futuro com possibilidade de expansão para vídeos e músicas e também iremos direcionar o envio do link, para o somente visualização de arquivos destinados ao usuário correto, através de uma senha e um link dinâmico.  
+<p>O projeto tem como objetivo o compartilhamento de fotos, nosso serviço funciona sem o usuário gastar espaço no seu celular, com alta disponibilidade 24x7 e alta velocidade, no futuro com possibilidade de expansão para vídeos e músicas e iremos direcionar o envio do link, para o somente visualização de arquivos destinados ao usuário correto, através de uma senha e um link dinâmico.  
 <p>Estamos no momento limitando apenas para arquivos menores de 3mb.
   
  Preview do Front:
