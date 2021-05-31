@@ -27,7 +27,7 @@ Projeto inspirado no Giphy, para compartilhamento de arquivos, se trata de um pr
   
 ![image](https://user-images.githubusercontent.com/62247144/120242938-8a5b5600-c23c-11eb-95be-a243d361c8ce.png)
 
-  <p> No front temos as operações básicas dos metodos HTTP, como: 
+  <p> No front temos as operações básicas dos métodos HTTP, como: 
     <p>Post, para enviar a imagem;
     <p>Get para exibir;
     <p>Delete para deletar o arquivo;
@@ -39,8 +39,8 @@ https://upload-js-frontend.herokuapp.com/
 
 ## Outras Observações
 Tecnologias utilizadas nesse projeto:
-- ASW S3 para o armazeamanto de arquvios estaticos;
+- ASW S3 para o armazenamento de arquivos estáticos;
 - Reactjs para o desenvolvimento do Front-end;
-- Nodejs para o desenvolvimento da api para o Back-end;
-- Utilizado dois app do heroku para disponibilidade do projeto, sendo um para o back outro para o front e podendo funcionar indepentes;
+- Nodejs para o desenvolvimento da API para o Back-end;
+- Utilizado dois APP do heroku para disponibilidade do projeto, sendo um para o back outro para o front e podendo funcionar independente;
 - Link para o repositório da API; https://github.com/Jamarin0/upload-project
